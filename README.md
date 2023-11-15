@@ -8,5 +8,6 @@
 
 <p>Whether you are a beginner or an experienced practitioner, this repository aims to provide valuable resources, code examples, and insights into the world of Tensorflow. Feel free to explore the different topics and projects included here. If you have any questions or suggestions, don't hesitate to reach out.</p>
 
-<p><em>I developed these codes as part of a course on <strong>Udemy</strong>, where I learned Tensorflow <strong>(CNN, NLP, RNN, BERT, Feature Extraction, Fine tuning)</strong> in a professional and structured manner. The hands-on experience gained from the course has been instrumental in enhancing my understanding of deep learning concepts and their practical applications.</em></p>
+<p><em>I developed these codes as part of a course on <strong>Udemy</strong>, where I learned Tensorflow <strong>(CNN, NLP, RNN, BERT, Feature Extraction, Fine tuning)</strong> in a professional and structured manner. This repository basically explains my learning journey of Tensorflow and adventures into Neural Networks. The hands-on experience gained from the course has been instrumental in enhancing my understanding of deep learning concepts and their practical applications.</em></p>
+
 
